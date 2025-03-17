@@ -304,11 +304,11 @@ Now, you can simply add the class `my-text-class` to any HTML element to apply t
 
 ## Contributing
 
-Contributions are welcome! If you find bugs, have feature requests, or want to improve the code, please feel free to open issues or submit pull requests on [the repository link (if you have one, otherwise remove this line)].
+Contributions are welcome! If you find bugs, have feature requests, or want to improve the code, please feel free to open issues or submit pull requests on [the repository link](https://github.com/sakibweb/Font-JS).
 
 ## License
 
-[MIT License (or specify your license)]
+[MIT License](https://github.com/sakibweb/Font-JS/blob/main/LICENSE)
 
 ---
 
